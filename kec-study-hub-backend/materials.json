@@ -1,0 +1,16 @@
+[
+  {
+    "id": "1740939675583",
+    "subjectName": "sc",
+    "materialType": "Question Paper",
+    "semester": "2",
+    "description": "important question for cat",
+    "department": "CSE",
+    "year": "2",
+    "deviceId": "589578ec-e112-481e-b2a5-0af3c08ac9d2",
+    "uploadedBy": "varunm.22it",
+    "fileUrl": "http://localhost:5000/uploads/1740939675491.pdf",
+    "uploadedAt": "2025-03-02T18:21:15.583Z",
+    "reportCount": 0
+  }
+]
